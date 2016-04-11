@@ -9,6 +9,9 @@ apontar para o diretorio criado;
 npm install express
 npm install cors(opcional)
 
+atualizar o arquivo package.json: 
+npm update --save
+
 
 Angularjs
 
