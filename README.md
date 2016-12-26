@@ -20,3 +20,10 @@ npm install http-server -g
 depois de instalado, escolher um ip
 exemplo:
 http://localhost:8081/index.html#/contatos
+
+ou
+
+apontar para o diretorio da aplicação do angular,
+npm install http-server -g
+depois de instalado, escolher um ip
+http-server -a localhost -p 8000
